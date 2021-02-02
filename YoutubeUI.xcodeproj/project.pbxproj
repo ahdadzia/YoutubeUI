@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84362DD725C8FE5E005FBE36 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84362DD625C8FE5E005FBE36 /* SettingView.swift */; };
 		8493C90825C7A92D00A1F1B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8493C90725C7A92D00A1F1B1 /* AppDelegate.swift */; };
 		8493C90A25C7A92D00A1F1B1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8493C90925C7A92D00A1F1B1 /* SceneDelegate.swift */; };
 		8493C90C25C7A92D00A1F1B1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8493C90B25C7A92D00A1F1B1 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84362DD625C8FE5E005FBE36 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
 		8493C90425C7A92D00A1F1B1 /* YoutubeUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8493C90725C7A92D00A1F1B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8493C90925C7A92D00A1F1B1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				8493C91225C7A93100A1F1B1 /* LaunchScreen.storyboard */,
 				8493C91525C7A93100A1F1B1 /* Info.plist */,
 				8493C90F25C7A93100A1F1B1 /* Preview Content */,
+				84362DD625C8FE5E005FBE36 /* SettingView.swift */,
 			);
 			path = YoutubeUI;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8493C90825C7A92D00A1F1B1 /* AppDelegate.swift in Sources */,
+				84362DD725C8FE5E005FBE36 /* SettingView.swift in Sources */,
 				8493C90A25C7A92D00A1F1B1 /* SceneDelegate.swift in Sources */,
 				8493C90C25C7A92D00A1F1B1 /* ContentView.swift in Sources */,
 			);
